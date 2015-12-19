@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!-- Note, should appear as action button -->
+    <!--<item android:id="@+id/COUNT"
+        android:icon="@drawable/ic_mouse_variant_white_24dp"
+        android:title="@string/action_note"
+        app:showAsAction="ifRoom" />-->
+</menu>

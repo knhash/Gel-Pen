@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- QuickNote, should appear as action button -->
+    <item android:id="@+id/INSERT_QUICK"
+        android:icon="@mipmap/fab_ic_add"
+        android:title="@string/action_note"
+        app:showAsAction="ifRoom" />
+    <!-- FullNote, should appear as action button -->
+    <!--<item android:id="@+id/INSERT_NOTE"
+        android:icon="@mipmap/pen"
+        android:title="@string/action_write"
+        app:showAsAction="always" />-->
+    <!-- Settings, should always be in the overflow -->
+    <!--<item android:id="@+id/ABOUT"
+        android:title="@string/action_about"
+        app:showAsAction="never" />-->
+</menu>
